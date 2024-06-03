@@ -1,7 +1,7 @@
 function fibonacci(num) {
 
-    int num1 = 0;
-	int num2 = 1;
+     num1 = 0;
+	 num2 = 1;
 
 	if(num == 1)
 	{
